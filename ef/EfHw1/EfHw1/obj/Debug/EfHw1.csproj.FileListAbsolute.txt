@@ -1,0 +1,13 @@
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EfHw1.exe.config
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EfHw1.exe
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EfHw1.pdb
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EntityFramework.dll
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EntityFramework.xml
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\obj\Debug\EfHw1.csprojAssemblyReference.cache
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\obj\Debug\EfHw1.csproj.CoreCompileInputs.cache
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\obj\Debug\EfHw1.csproj.CopyComplete
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\obj\Debug\EfHw1.exe
+C:\Users\Alibek\source\repos\EfHw1\EfHw1\obj\Debug\EfHw1.pdb
